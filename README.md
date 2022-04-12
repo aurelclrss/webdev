@@ -1,2 +1,2 @@
 # webdev
-Latihan belajar web development
+Latihan Web Development
